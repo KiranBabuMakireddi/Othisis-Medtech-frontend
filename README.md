@@ -8,7 +8,7 @@ This project is a drag-and-drop interface built with **React**, **Vite**, **Tail
 
 ```bash
 git clone https://github.com/KiranBabuMakireddi/Othisis-Medtech-frontend.git
-cd your-repo-name
+cd Othisis-Medtech-frontend
 ```
 
 ### 2. Install Dependencies
